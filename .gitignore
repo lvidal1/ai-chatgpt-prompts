@@ -1,0 +1,35 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local development settings
+.env
+
+# Compiled output
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+
+# IDE files
+.idea/
+.vscode/
+*.sublime-workspace
+*.pydevproject
+*.project
+*.settings/
+*.tmproj
+
+# Log files
+*.log
+
+# Backup files
+*~
+
+# Cache files
+.cache/
