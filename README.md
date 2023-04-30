@@ -1,4 +1,5 @@
-# Python Script Readme
+# ChatGPT Prompt examples
+
 This Python script utilizes the OpenAI API to generate natural language text based on specific prompts.
 
 To use this script, you will need to set up an OpenAI API key and store it in a .env file using the dotenv package.
